@@ -1,11 +1,7 @@
-Username	edureka
-Password	DevOps12
-
 himanshuchan
 
 
 Github Token
-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
 
 Git installation:
 # sudo apt update
