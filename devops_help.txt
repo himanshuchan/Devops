@@ -22,7 +22,7 @@ Setup git:
 3. To create a branch
 # git branch <branch name>
 
-4. To swicthc to a specific branch
+4. To switch to a specific branch
 # git checkout <branch name>
 
 5. To check the status
@@ -54,5 +54,5 @@ The final outcome is the code from respective branch should be reflecting in mai
 
 12. Git pull to get latest code in local repo
 # git checkout main 
-# git fetch 
-# git pull
+# git fetch --it will just tell if there are some changes in the main branch
+# git pull  --pulls the changes from the remote main branch to the local branch(local branch->remote main->local main)
