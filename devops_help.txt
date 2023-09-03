@@ -2,7 +2,7 @@ Username	edureka
 Password	DevOps12
 
 himanshuchan
-Shaku1234
+
 
 Github Token
 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
